@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8VGZRKN92F.com.boris.wombitekitchen",
+        "paths": ["/invite/*", "/invite"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["8VGZRKN92F.com.boris.wombitekitchen"]
+  }
+}
